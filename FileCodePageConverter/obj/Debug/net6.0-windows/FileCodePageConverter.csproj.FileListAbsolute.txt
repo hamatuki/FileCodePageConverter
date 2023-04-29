@@ -1,0 +1,17 @@
+C:\Users\aimit\source\repos\FileCodePageConverter\bin\Debug\net6.0-windows\FileCodePageConverter.exe
+C:\Users\aimit\source\repos\FileCodePageConverter\bin\Debug\net6.0-windows\FileCodePageConverter.deps.json
+C:\Users\aimit\source\repos\FileCodePageConverter\bin\Debug\net6.0-windows\FileCodePageConverter.runtimeconfig.json
+C:\Users\aimit\source\repos\FileCodePageConverter\bin\Debug\net6.0-windows\FileCodePageConverter.dll
+C:\Users\aimit\source\repos\FileCodePageConverter\bin\Debug\net6.0-windows\FileCodePageConverter.pdb
+C:\Users\aimit\source\repos\FileCodePageConverter\obj\Debug\net6.0-windows\FileCodePageConverter.csproj.AssemblyReference.cache
+C:\Users\aimit\source\repos\FileCodePageConverter\obj\Debug\net6.0-windows\FileCodePageConverter.Form1.resources
+C:\Users\aimit\source\repos\FileCodePageConverter\obj\Debug\net6.0-windows\FileCodePageConverter.csproj.GenerateResource.cache
+C:\Users\aimit\source\repos\FileCodePageConverter\obj\Debug\net6.0-windows\FileCodePageConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aimit\source\repos\FileCodePageConverter\obj\Debug\net6.0-windows\FileCodePageConverter.AssemblyInfoInputs.cache
+C:\Users\aimit\source\repos\FileCodePageConverter\obj\Debug\net6.0-windows\FileCodePageConverter.AssemblyInfo.cs
+C:\Users\aimit\source\repos\FileCodePageConverter\obj\Debug\net6.0-windows\FileCodePageConverter.csproj.CoreCompileInputs.cache
+C:\Users\aimit\source\repos\FileCodePageConverter\obj\Debug\net6.0-windows\FileCodePageConverter.dll
+C:\Users\aimit\source\repos\FileCodePageConverter\obj\Debug\net6.0-windows\refint\FileCodePageConverter.dll
+C:\Users\aimit\source\repos\FileCodePageConverter\obj\Debug\net6.0-windows\FileCodePageConverter.pdb
+C:\Users\aimit\source\repos\FileCodePageConverter\obj\Debug\net6.0-windows\FileCodePageConverter.genruntimeconfig.cache
+C:\Users\aimit\source\repos\FileCodePageConverter\obj\Debug\net6.0-windows\ref\FileCodePageConverter.dll
