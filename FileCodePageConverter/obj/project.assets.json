@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aimit\\source\\repos\\FileCodePageConverter\\FileCodePageConverter.csproj",
+      "projectUniqueName": "C:\\GitHub_FileCodePageConverter\\FileCodePageConverter\\FileCodePageConverter.csproj",
       "projectName": "FileCodePageConverter",
-      "projectPath": "C:\\Users\\aimit\\source\\repos\\FileCodePageConverter\\FileCodePageConverter.csproj",
+      "projectPath": "C:\\GitHub_FileCodePageConverter\\FileCodePageConverter\\FileCodePageConverter.csproj",
       "packagesPath": "C:\\Users\\aimit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aimit\\source\\repos\\FileCodePageConverter\\obj\\",
+      "outputPath": "C:\\GitHub_FileCodePageConverter\\FileCodePageConverter\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
